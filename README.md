@@ -20,3 +20,6 @@ It should automatically open the heightmap and tell what where all the sectors a
 <img width="1202" height="984" alt="image" src="https://github.com/user-attachments/assets/9c118468-140e-4d04-a623-4e427309b9be" />
 <img width="1202" height="984" alt="image" src="https://github.com/user-attachments/assets/8228a251-d71a-4c41-8d97-515760ce1657" />
 <img width="1202" height="984" alt="image" src="https://github.com/user-attachments/assets/1c558ced-b59e-4d15-acb5-272dd1183a95" />
+<img width="2261" height="1723" alt="image" src="https://github.com/user-attachments/assets/0bd36e70-3f10-4095-acec-289bf63fcd2c" />
+<img width="2261" height="1723" alt="image" src="https://github.com/user-attachments/assets/a5e0a81f-5483-4760-99bc-ea2b04ae8a2e" />
+<img width="2261" height="1723" alt="image" src="https://github.com/user-attachments/assets/12f96c85-961d-4e8e-9101-01e7152c3410" />
